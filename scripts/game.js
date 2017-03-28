@@ -2,7 +2,7 @@
 var timerun = 0.000;
 var t;
 var fre = 0;
-var limit = 10;
+var limit = 50;
 var isend = false;
 // 游戏的操作主要是依靠键盘的J K L来完成，捕获键盘事件
 $(document).keydown(function(event) {
